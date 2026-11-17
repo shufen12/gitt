@@ -1,4 +1,4 @@
-# Git
+# gitt
 
 A repository initialized for local work, synced to GitHub.
 
@@ -6,7 +6,7 @@ A repository initialized for local work, synced to GitHub.
 
 ```bash
 git clone <repository-url>
-cd Git
+cd gitt
 ```
 
 ## Layout
